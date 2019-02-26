@@ -7,7 +7,7 @@ $ git clone https://github.com/4383/notebooks
 $ cd notebooks
 $ python -m virtualenv .
 $ source bin/activate
-$ python -m pip install requirements.txt
+$ python -m pip install -r requirements.txt
 $ jupyter notebook
 ```
 
